@@ -1,0 +1,12 @@
+Qué se verá en este video:
+
+1- Crear un repositorio remoto en Github.
+2- Crear un repositorio local con git.
+
+3- Crearemos los archivos del repositorio local.
+4- Añadir los archivos del repositorio local al Stagin area.
+
+5- Realizar los commit de los cambios realizados.
+6- Conectar el repositorio local con el repositorio remoto.
+
+7- Realizar un Push del repositorio local hacia el repositorio remoto.
